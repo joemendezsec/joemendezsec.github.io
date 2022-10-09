@@ -332,7 +332,12 @@ ul#filters {
 
 div#navbarNav.collapse.navbar-collapse {
   justify-content: center;
-  margin-left: -165px;
+  margin-left: auto;
+  margin-right: auto;
+  /*
+  display:inline-block; 
+  text-align:center 
+  */
 }
 
 .navbar-brand,
